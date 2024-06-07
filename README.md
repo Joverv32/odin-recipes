@@ -1,3 +1,3 @@
-# odin-recipes 
-Premier projet avec the project odin.
-Première leçon html.
+Premier projet avec the odin project
+création d'un premier site de recette html.
+
