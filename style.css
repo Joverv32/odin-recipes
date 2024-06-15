@@ -1,0 +1,24 @@
+h1 {
+    text-align:center;
+    color: white;
+    background-color: brown;
+    width: 950px;
+    height: 100px;
+    margin: auto;
+    font-size: 56px;
+}
+body {
+    background-color: blanchedalmond;
+}
+.list {
+    background-color:coral;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 250px;
+}
+ul {
+    color: beige;
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
